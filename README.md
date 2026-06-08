@@ -1,6 +1,6 @@
 ## Hi  👋
 
-I use Codeberg by choice and GitHub by necessity.
+## I use Codeberg by choice and GitHub by necessity.
 
 Here are some ideas to get you started:
 
